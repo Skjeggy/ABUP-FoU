@@ -13,9 +13,9 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
+- icon: link
+  icon_pack: fas
+  name: Besøk nettsiden
   url: https://outdoorstherapy.netlify.app/
 url_code: ""
 url_pdf: ""

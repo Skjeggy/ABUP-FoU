@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: https://outdoorstherapy.netlify.app/
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo by Scott Goodwill on Unsplash
   focal_point: Smart
 
 # links:

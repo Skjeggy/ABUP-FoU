@@ -7,6 +7,9 @@ main:
   - name: Nyheter
     url: post
     weight: 20
+  - name: Prosjekter
+    url: projects
+    weight: 25
   - name: Ansatte
     url: people
     weight: 30

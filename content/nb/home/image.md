@@ -2,7 +2,6 @@
 # An instance of the Blank widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: blank
-draft: true
 
 # Activate this widget? true/false
 active: false
